@@ -1,0 +1,12 @@
+Roller Coaster Pseudocode
+
+// Problem: A roller coaster is available in a park, but children cannot ride on the ride without meeting the age requirement. Write a program where the user can decide the age limit of the roller coaster, the age of the first and second child, and have the program decide if either child can ride the roller coaster.
+
+// Objective: Using int data types and if - else if - else statements, create a program that solves the problem.
+
+// Import scanner 
+// String Inputs for the name of the children
+// Int Inputs for ride age limit and ages of the children
+// If conditions that will run based on the user's input to see if either children meet the ride age requirement
+// Display result to user
+// End
